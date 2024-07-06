@@ -9,7 +9,7 @@ const Footer = () => {
     <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
         <div class="md:flex md:justify-between">
           <div class="mb-6 md:mb-0">
-              <a href="https://flowbite.com/" class="flex items-center">
+              <a href="#" class="flex items-center">
                   <img src="https://www.shutterstock.com/image-vector/neon-cinema-film-purple-violet-260nw-1972049927.jpg" class="h-8 me-3" alt="FlowBite Logo" />
                   <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">MovieHub</span>
               </a>
@@ -19,10 +19,10 @@ const Footer = () => {
                   <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
                   <ul class="text-gray-500 dark:text-gray-400 font-medium">
                       <li class="mb-4">
-                          <a href="https://flowbite.com/" class="hover:underline">MovieHub</a>
+                          <a href="#" class="hover:underline">MovieHub</a>
                       </li>
                       <li>
-                          <a href="https://tailwindcss.com/" class="hover:underline">Tailwind CSS</a>
+                          <a href="#" class="hover:underline">Tailwind CSS</a>
                       </li>
                   </ul>
               </div>
