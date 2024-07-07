@@ -15,9 +15,8 @@ const Home = () => {
 
   return (
     <div>
-      <Navbar />
-      
-      <header className="App-header">
+      <header className=" relative w-full h-screen overflow-hidden">
+        <Navbar/>
         <Carousal images={images} />
       </header>
       
